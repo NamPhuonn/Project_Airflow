@@ -33,3 +33,4 @@ After processing the data, store the results in MongoDB using the exported .csv 
 
 ### 8. Task sequencing and parallel execution
 You need to arrange the tasks in the correct order and configure them for parallel execution according to the provided workflow diagram.
+![Ảnh minh họa](DAG.png)
